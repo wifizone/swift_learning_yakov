@@ -2,7 +2,7 @@
 //  CustomCollectionsTests.swift
 //  CustomCollectionsTests
 //
-//  Created by Полуянов Яков on 01.10.2023.
+//  Created by Полуянов Яков on 03.10.2023.
 //
 
 import XCTest
